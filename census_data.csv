@@ -1,0 +1,89 @@
+gender,race,edu_level,n
+Female,asian,0,1837
+Female,asian,1,1470
+Female,asian,2,1777
+Female,asian,3,582
+Female,asian,4,435
+Female,asian,5,422
+Female,asian,6,5353
+Female,asian,7,2437
+Female,asian,8,1696
+Female,asian,9,6888
+Female,asian,10,5617
+Female,black/african american/negro,0,9559
+Female,black/african american/negro,1,11659
+Female,black/african american/negro,2,10162
+Female,black/african american/negro,3,3428
+Female,black/african american/negro,4,4723
+Female,black/african american/negro,5,6104
+Female,black/african american/negro,6,51047
+Female,black/african american/negro,7,23959
+Female,black/african american/negro,8,11477
+Female,black/african american/negro,9,17425
+Female,black/african american/negro,10,12119
+Female,others,0,19192
+Female,others,1,21172
+Female,others,2,19077
+Female,others,3,5523
+Female,others,4,5103
+Female,others,5,5617
+Female,others,6,44539
+Female,others,7,20555
+Female,others,8,10245
+Female,others,9,27393
+Female,others,10,15410
+Female,white,0,64539
+Female,white,1,82585
+Female,white,2,73023
+Female,white,3,22965
+Female,white,4,26015
+Female,white,5,28517
+Female,white,6,374346
+Female,white,7,150009
+Female,white,8,97984
+Female,white,9,206646
+Female,white,10,129290
+Male,asian,0,1582
+Male,asian,1,1458
+Male,asian,2,1401
+Male,asian,3,443
+Male,asian,4,328
+Male,asian,5,380
+Male,asian,6,4126
+Male,asian,7,2080
+Male,asian,8,1022
+Male,asian,9,5414
+Male,asian,10,5594
+Male,black/african american/negro,0,9601
+Male,black/african american/negro,1,11811
+Male,black/african american/negro,2,10754
+Male,black/african american/negro,3,4423
+Male,black/african american/negro,4,5893
+Male,black/african american/negro,5,7366
+Male,black/african american/negro,6,52760
+Male,black/african american/negro,7,19749
+Male,black/african american/negro,8,7451
+Male,black/african american/negro,9,11944
+Male,black/african american/negro,10,6823
+Male,others,0,18758
+Male,others,1,21855
+Male,others,2,19651
+Male,others,3,6003
+Male,others,4,5581
+Male,others,5,6346
+Male,others,6,46041
+Male,others,7,19328
+Male,others,8,8248
+Male,others,9,21701
+Male,others,10,14697
+Male,white,0,67650
+Male,white,1,87558
+Male,white,2,77624
+Male,white,3,25846
+Male,white,4,28606
+Male,white,5,30860
+Male,white,6,369837
+Male,white,7,143075
+Male,white,8,75561
+Male,white,9,189120
+Male,white,10,118269
